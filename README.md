@@ -18,6 +18,7 @@ I am in my final semester at Carnegie Mellon University pursuing Masters of Info
 # What I hope to learn
 Since most of my internships and full time experience involved building visualisations or working with them, I am hoping to elevate my learnings to the next level. I have worked with countless kinds of visualisations but my understanding of the subject has been through hands-on experimentation and lacks theoretical foundation. With this course, I can complement my data visualisation experience with more complex and cutting edge techniques that can result in more impactful visualisations. I have witnessed first-hand the impact a well designed visualisation can have on understanding and solving business problems. With the assignments on this course, I will be better equipped with new skillsets that can drive my passion forward. In addition, the opportunity to create an online portfolio that can be added to my resume to showcase my visualisation abilities is a huge value add to the job applications I am working on this semester. 
 Looking forward to learning and having fun with charts in this course!  
+![Test image] (https://assets-global.website-files.com/59e16042ec229e00016d3a66/613157f891f7741dd99a68b2_data%20visualization%20tips_blog%20listing.jpg)
 
 # Portfolio
 
