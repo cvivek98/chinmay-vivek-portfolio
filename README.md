@@ -23,6 +23,8 @@ Looking forward to learning and having fun with charts in this course!
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 
+<iframe src="https://data.oecd.org/chart/7kmE" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kmE" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
+
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
 ## Final project
