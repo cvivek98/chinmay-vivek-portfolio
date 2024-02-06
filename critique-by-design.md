@@ -88,7 +88,7 @@ The first chart is easy to comprehend. I believe you must tweak chart's title si
 For health enthusiasts who might be on restricted budget like students. I believe this will help me make a better choice to get the proteins without hurting my pocket.
 
 •⁠  ⁠**Is there anything you would change or do differently?**
-The second graph is difficult to comprehend. I can't figure out the labels at the top of the bars and also what the orange circle represents. Could be because I am tired and sleepy.
+The second graph is difficult to comprehend. I can't figure out the labels at the top of the bars and also what the orange circle represents. Could be because I am tired.
 
 **Student 2 (Male, Late 30s):**
 
@@ -116,6 +116,12 @@ The title is long. Maybe add a note to move some of the things out of the title?
 •⁠ **What questions came up?**
 I understand that the package costs are included now for a reason but is it really a fair comparison? Because every food item has different quantities based on packaging like milk is in gallons but cheese is number of slices etc. So I am not sure if it is the most accurate representation.
 
+In conclusion, these were some of the key feedback points I received:
+- The title is better now but slightly longer
+- The viz type and color selection works well
+- Need to add legend for the orange dots (price per package)
+- Need to explore ways to group some of the food items together (like dairy, meat etc.)
+- If possible, find a better way to compare as package quantity would be different for each item
 
 
 # Step five: Build your solution
