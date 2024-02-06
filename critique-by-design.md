@@ -1,7 +1,7 @@
 | [home page](https://cvivek98.github.io/chinmay-vivek-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Step one: choose a data visualization from MakeoverMonday
-I picked the following image from MakeOverMonday repository. I picked this chart because the content in the chart is of personal interest to me and several people I know. Most students are on a tight budget and cannot spend exorbitant amounts on high protein foods. It was also interesting because most of the food items they showed on the chart are food items that I consume on a regular basis. Hence, I was able to relate better to the content of the chart and also learn how much the cost varies between them so I can make more pocket friendly decisions.
+I picked the following image from MakeOverMonday repository. I picked this chart because the content in the chart is of personal interest to me and several people I know. Most students are on a tight budget and cannot spend exorbitant amounts on high protein foods. It was also interesting because most of the food items they showed on the chart are food items that I consume on a regular basis. Hence, I was able to relate better to the content of the chart and also learn how much the cost varies between them so I can make more pocket friendly decisions. Also, as soon as I saw the shorter bars having larger colorie values and the logos not clear, I knew there are ways to make this visualization more impactful. 
 
 Source: https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760
         https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet
@@ -55,6 +55,17 @@ I feel like this method is definitely very comprehensive in its approach to cove
 
 
 # Step three: sketch out a solution
+
+Following up on the critique, I made the necessary changes in my redesign directly in Tableau. Firstly, I changed the title to give the viewers the key insight directly instead of having them fish for it. Also, I changed the color of the bars to green in order to resonate more with the values which are in USD. I also changed the order of the sort to go ascending instead of descending so that the cheapest options show up first on the left. Usually, viewers read from left to right so this would draw their attention to the cheapest options first which is where our highlight is. Even the title complements the same and makes it simpler of the viewer to reach the key insight faster. Additionally, I introduced a new variable which is 'price per package' so that the viewers know that eventhough some of these food items sound more economical when we look at 'cost per 20g of protein', it is not quite the case because they would have to buy in intervals of package units which can increase upfront costs. I felt that either of these variables alone do not do justice to the entire picture and both of them in conjunction provide a more holistic picture. 
+
+Note: When I started looking into the raw data to figure out ways to improve the visualisation, I realized that the raw data they provided is not exactly the same they used for the chart. There were a few differences which made it harder to replicate it exactly. 
+Some of the differences were:
+- The cost was given per 20 grams of protein instead of per 30 grams
+- Some of the food items were similar but not exactly the same e.g. Firm Tofu vs Extra Firm Tofu (the numbers will vary a bit)
+- The calorie information was not provided in the raw data but since this was something I was meaning to address in my critique, I fetched the calorie information from external sources 
+(United States Department of Agriculture (USDA) National Nutrient Database for Standard Reference: https://fdc.nal.usda.gov/
+Self Nutrition Data: https://www.self.com/)
+I also had to clean up some of the cost data as some entries were in cents while others in Dollars. I cleaned this up directly in Excel before refreshing the Data Source in Tableau.
 
 <img width="1128" alt="image" src="https://github.com/cvivek98/chinmay-vivek-portfolio/assets/143840786/d2b08202-78d3-436f-b5ff-5ca4581a441c">
 
