@@ -72,6 +72,55 @@ I also had to clean up some of the cost data as some entries were in cents while
 
 # Step four: Test the solution
 
+I tested my redesign to 3 students, trying to keep the respondent group as diverse as possible, and these were there thoughts:
+
+**Student 1 (Male, Late 20s):**
+•⁠  ⁠Can you tell me what you think this is?
+
+Comparing products prices which give the same protein content.
+
+•⁠  ⁠Can you describe to me what this is telling you?
+
+How can I opt for an efficient priced product meeting my daily requirement of protein.
+
+•⁠  ⁠Is there anything you find surprising or confusing?
+
+The first chart is easy to comprehend. I believe you must tweak chart's title since you are mentioning calories as well. If not it is an extra information in the chart, which is completely fine.
+
+•⁠  ⁠Who do you think is the intended audience for this?
+For health enthusiasts who might be on restricted budget like students. I believe this will help me make a better choice to get the proteins without hurting my pocket. Now I can increase my bench press from 200 kg to 300 kg.
+
+•⁠  ⁠Is there anything you would change or do differently?
+The second graph is difficult to comprehend. I can't figure out the labels at the top of the bars and also what the orange circle represents. Could be because I am tired and sleepy.
+
+**Student 2 (Male, Late 30s):**
+
+•⁠ Initial thoughts:
+Overall, the viz looks really good! I really like the design.
+
+•⁠ What worked?
+I like the viz (chart type selections) and the color selection. 
+
+•⁠ What can be improved?
+Include the legend for the orange dots.
+There are groups / categories that I can see. For e.g. dairy products, non vegetarian meat etc. I would like to see them grouped together in some way. It doesn't have to change the sort order but I maybe every category gets a color of its own? Some way to categorise it would be great.
+
+
+**Student 3 (Female, Mid 20s):**
+
+•⁠ What worked?
+I liked the clear bar graph widths. The professor mentioned how sometimes they are too narrow or wide. These look perfect.
+I like the idea of including costs per package as it gives more context for a buyer.
+It is also very clear to see which items cost more overall / package wise. 
+
+•⁠ What didn't work?
+The title is long. Maybe add a note to move some of the things out of the title?
+
+•⁠ What questions came up?
+I understand that the package costs are included now for a reason but is it really a fair comparison? Because every food item has different quantities based on packaging like milk is in gallons but cheese is number of slices etc. So I am not sure if it is the most accurate representation.
+
+
+
 # Step five: Build your solution
 
 
