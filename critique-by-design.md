@@ -143,3 +143,6 @@ For the final version of the solution, I made the follwoing changes:
         scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
         vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+NOTE: Github would not allow me to embed the dashboard so I am adding a screenshot of what it looks like below:
+<img width="990" alt="image" src="https://github.com/cvivek98/chinmay-vivek-portfolio/assets/143840786/5c52cc8d-e0f5-4d59-96aa-c407577dc640">
