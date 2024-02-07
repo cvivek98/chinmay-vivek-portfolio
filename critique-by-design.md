@@ -149,4 +149,6 @@ For the final version of the solution, I made the follwoing changes:
 
 
 **NOTE: Github would not allow me to embed the dashboard so I am adding a screenshot of what it looks like below:**
+Link to the public dashboard: https://public.tableau.com/views/TSWD34/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 <img width="990" alt="image" src="https://github.com/cvivek98/chinmay-vivek-portfolio/assets/143840786/5c52cc8d-e0f5-4d59-96aa-c407577dc640">
