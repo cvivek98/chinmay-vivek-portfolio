@@ -134,5 +134,5 @@ In conclusion, these were some of the key feedback points I received:
         else { vizElement.style.width='100%';vizElement.style.height='727px';}                     
         var scriptElement = document.createElement('script');                    
         scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-        vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+        vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
