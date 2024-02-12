@@ -14,6 +14,16 @@ As the user navigates throught the story, this is an approximate how the emotion
 
 ## Initial sketches
 
+
+1. The first graph showcases the difference in vaccination rates to highlight the difference based on ethnicity. This is the disparity that takes place because of the way our society is strucutured.
+
+2. The bottom left graph shows the risk of death of different ethnicities compared to white participants be benchmarking the risk against white participants.
+
+3. The top right graph now shows the consequences of this disparity by demonstrating impact on mental health of white participants compared to BAME participants.
+
+4. The bottom right graph showcases how BAME participants lost jobs a lot faster further worsening their situation in battling COVID.
+
+   
 <img width="725" alt="image" src="https://github.com/cvivek98/chinmay-vivek-portfolio/assets/143840786/9976f19d-11ee-4e1d-aea2-ef42d2975aa6">
 
 
