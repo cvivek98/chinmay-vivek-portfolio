@@ -10,6 +10,7 @@ The audience of this project would be all kinds of people. From students to poli
 
 ## Initial sketches
 
+![IMG_8950](https://github.com/cvivek98/chinmay-vivek-portfolio/assets/143840786/c00c49ae-5dee-4ad5-ab2f-eb130ea49860)
 
 
 # The data
