@@ -9,7 +9,7 @@ The audience of this project would be all kinds of people. From students to poli
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+
 
 
 # The data
