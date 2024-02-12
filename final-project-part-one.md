@@ -17,16 +17,23 @@ The audience of this project would be all kinds of people. From students to poli
 I found the following data sources that will be build the story:
 
 2021/W28: UK COVID Vaccination Coverage by Age & Ethnicity:
+
 https://data.world/makeovermonday/2021w28
+
+
 This data source provide data which compares vaccination rates of BAME group with white ethnicity participants. I plan to use line charts to demonstrate the apparant difference in vaccination rates between white ethnicity participants compared to BAME participants. This will help me introduce the foundation of disparity in vaccination rates based on ethnicity to lead my viewers upto the consequences of these differences.
 
 2021/W29: UK COVID-19 Mortality Rate by Ethnicity:
+
 https://data.world/makeovermonday/2021w29
+
 This data source provides with data that correlates mortality with ethnicity. It also demonstrates the higher risk of being part different of certain ethnicity compared to other ethnicities. It normalizes the death risk of BAME groups (Black, Asian & Minority Ethnic) compared to White participants. I plan to use compare these ethnicities in a bar chart or an abacus chart to highlight the differences.  
 
 
 COVID Impact Survey - Public Data
+
 https://data.world/associatedpress/covid-impact-survey-public-data
+
 This data source provides data of a public survey which captures details about physical health, mental health, economic security and social dynamics related to the coronavirus pandemic in the US. I plan to use some of the metrics here to showcase the lesser known impact that these disparities have had on some groups of society. The goal is to leave the user with an eye-opening perception of the larger impacts COVID has had on our society and how no one talks about it. 
 
 
