@@ -8,7 +8,8 @@ The idea of my project is to showcase the impact of COVID on different segments 
 The audience of this project would be all kinds of people. From students to policy-makers, everyone has been impacted by COVID in the past few years and bringing attention to this side of the implications of COVID would be of interest to everyone. The data is going to primarily focus on US geographies but potentially also showcase a couple of other countries to demonstrate paralells in impact across the globe. I intend to start with showcasing a generic vaccination chart and then segmenting it by race / ethnicity to demonstrate how some segments of society were left behind in the race of vaccination. After estabilishing that there was an apparant difference in resource allocation for some segments of the society, I plan to showcase the impact caaused by these differences vaccinations. Some of these metrics could be casualty metrics like hospitalisation, death rates etc. but I can also add other metrics to showcase other kinds of impact that most people haven't paid too much attention to.  
 
 As the user navigates throught the story, this is an approximate how the emotional journey will look like leaving the user with astonishment and curiosity to learn more about this topic:
-![IMG_8951](https://github.com/cvivek98/chinmay-vivek-portfolio/assets/143840786/e3d2551f-0c0c-4d7d-a154-5fa37c182f30)
+
+![IMG_8951](https://github.com/cvivek98/chinmay-vivek-portfolio/assets/143840786/e52fb4f2-7ba1-4d80-8c2e-9ec22885da30)
 
 
 ## Initial sketches
