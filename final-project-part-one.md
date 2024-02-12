@@ -9,12 +9,12 @@ The audience of this project would be all kinds of people. From students to poli
 
 As the user navigates throught the story, this is an approximate how the emotional journey will look like leaving the user with astonishment and curiosity to learn more about this topic:
 
-![IMG_8951](https://github.com/cvivek98/chinmay-vivek-portfolio/assets/143840786/e52fb4f2-7ba1-4d80-8c2e-9ec22885da30)
+![image](https://github.com/cvivek98/chinmay-vivek-portfolio/assets/143840786/874c5029-50db-4e56-8a0f-35587c957a9f)
 
 
 ## Initial sketches
 
-![IMG_8950](https://github.com/cvivek98/chinmay-vivek-portfolio/assets/143840786/c00c49ae-5dee-4ad5-ab2f-eb130ea49860)
+<img width="725" alt="image" src="https://github.com/cvivek98/chinmay-vivek-portfolio/assets/143840786/9976f19d-11ee-4e1d-aea2-ef42d2975aa6">
 
 
 # The data
