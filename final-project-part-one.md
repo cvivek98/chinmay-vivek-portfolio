@@ -2,7 +2,8 @@
 
 
 # Outline
-> high-level summary:
+
+
 The idea of my project is to showcase the impact of COVID on different segments of our scoiety. The impact here would encompass more than just the health related implications. It will include personal implications like education, mental well -bering etc. This topic peaked my interest becausde COVID was a biological disease which should have impacted everyone equally but because of the way our society is structured, it affected some segments of society significantly differently than others.
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
