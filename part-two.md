@@ -25,7 +25,7 @@ Target audience is essentially policy makers in the US who are in power/position
 
 5. As a member of the target audience (policy makers) for this story, do you feel empowered or inspired to take action or advocate for change in addressing mental health inequities? What additional resources or calls to action would you find helpful in driving momentum for policy reform?
 
-Goal: Checking for key takaways   
+Goal: Checking for key takaways <br>
 question: What stood out after going through the whole story? Any specific emotions that sparked as you went through it?                                           
 Goal: Checking if the issues were properly conveyed to the viewer  
 question: How effectively does the story highlight the unique mental health challenges faced by minority communities during the COVID-19 pandemic? Are there specific examples or narratives that resonated with you?
