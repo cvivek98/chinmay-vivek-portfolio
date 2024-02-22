@@ -3,13 +3,13 @@
 # Wireframes / storyboards
 
 
+
 # User research 
 
 
 ## Target audience
 Target audience is essentially policy makers in the US who are in power/position to make policies around Health Equity and COVID relief.
 
-Text here!
 
 ## Interview script
 
