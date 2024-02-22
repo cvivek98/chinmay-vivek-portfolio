@@ -1,4 +1,4 @@
-| [home page](https://cvivek98.github.io/chinmay-vivek-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cvivek98.github.io/chinmay-vivek-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](part-two) | [final project III](final-project-part-three) |
 
 # Part 1
 For the first part, I built the chart on the OECD data website. I used only the latest year and hence a bar chart accurately visualizes the data. We have a bar for each of the countries which represents the debt to GDP ratio of that country for 2022. I chose to not color code the countries otherwise every bar would be a different color and it wouldn't be adding any additional information. 
