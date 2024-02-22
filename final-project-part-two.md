@@ -7,24 +7,31 @@ Text here!
 
 # User research 
 
+
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
 Text here!
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+1. What stood out after going through the whole story? Any specific emotions that sparked as you went through it?
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+2. How effectively does the story highlight the unique mental health challenges faced by minority communities during the COVID-19 pandemic? Are there specific examples or narratives that resonated with you?
 
+3. How did you perceive the flow of the story? Did it effectively convey the message and engage with you throughout?
 
-Text here!
+4. Were there any data visualizations or infographics in the story that effectively communicated the magnitude of mental health disparities among minority groups? 
+
+5. As a member of the target audience (policy makers) for this story, do you feel empowered or inspired to take action or advocate for change in addressing mental health inequities? What additional resources or calls to action would you find helpful in driving momentum for policy reform?
+
+|                                 Goal                                  | Questions to Ask   |
+| Checking for key takaways                                             | Q1                 |
+| Checking if the issues were properly conveyed to the viewer           | Q2                 |
+| Checking for flow of story and if it resonates with the theme         | Q3                 |
+| Checking if the data viz conveyed the right insights effectively      | Q4                 |
+| Checking the impact / effectiveness of call to action                 | Q5                 |
+
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
