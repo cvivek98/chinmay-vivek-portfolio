@@ -79,20 +79,16 @@ with this changes the story can be better explained.
 <br>**Interviewee C**: Yes, I was moved by the story and motivated to take action. I also liked the fact that the story was very unique because when people talk about COVID, they don't think about the mental health implications it could have caused. So it was interesting to see all the data points.
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+Insight: The audience could connect to the story but it still did not feel very personal to them.
+<br>Change: I had a lot of cartoons to reinforce the emotions but I will now replace some of them with real pictures of people who were affected. For e.g. a picture of a racial minority member who was impacted by COVID looking right at the viewer would be more impactful.
+<br>
+<br>Insight: The audience liked the graphs but it was still a lot to interpret.
+<br>Change: I would do a few changes here. I will try to play around and club all minorities together to show white vs minority in a single snapshot. This would also solve the problem of charts being too big and information overlaod for the viewers. In addition, I would add real life pictures next to some of the charts to visually aid the user in feeling the intended emotion. For e.g. one interviewee gave an example of adding two racial minority indivduals talk to each other next to the chart which shows decline in neighbor interactions and isolation.
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+<br>Insight: It took a long time to get to the "Why"
+<br>Change: I will take out some of the charts in my setup because most of them re-iterating the same point. I think I can achieve the same impact with fewer charts. Also, I want the users to reach to the "why" earlier before they lose interest or start forgetting the first few insights.
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
+<br>Insight: Some charts are not intuitive unless you read into them 
+<br>Change: I need to add units / labels for some of the charts because they are not all intuitive. 
 
