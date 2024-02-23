@@ -16,6 +16,10 @@ Target audience is essentially policy makers in the US who are in power/position
 
 I picked three interview participants from completely different backgrounds to gather a varied feedback and check how the story is perceived among people with different backgrounds. I tried my best to pick people who are from technical as well as non-technical background to see if the data is easy to read for everyone. I also picked 1 person from a background in policy to see if they would feel like taking action after going through the whole story. 2/3 of my interviewees belonged to the racial minorities that most of the insights were about. Hence, I was interested to see their emotional arc while going through the story compared to others. I tried to meet them in person so I can also see some of their facial expressions as they go through the charts because it is very evident when someone is really shocked or confused. I gave all of them 0 information about my story before presenting them the shorthand to keep away any biases.
 
+<br>Interviewee 1: Male student, Late 20's (technical background)
+<br>Interviewee 2: Male student, Late 30's (non-technical background)
+<br>Interviewee 3: Female student, mid 20's (background in policy)
+
 ## Interview script
 
 **Goal: Checking if the key takaways are what we hoped to achieve with the story** <br>
