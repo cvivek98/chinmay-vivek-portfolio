@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-https://preview.shorthand.com/Mx8Hm1rlytl6RuEL
+[https://preview.shorthand.com/Mx8Hm1rlytl6RuEL](https://preview.shorthand.com/Mx8Hm1rlytl6RuEL)
 
 I started with refining my topic a bit and narrowing it down to just mental health impact. When I started playing with the data, I came up with new visualisations that I did not think of while working on part 1. Also, before building the charts, I had to do a lot of data cleaning for some of the data sources. The data was just not in the right format or I had to clean it up for making things easier in Tableau. In addition, I had to merge the data from three different CSV files for the public survey data because that is how it was available online. However, since some of the metrics were key in this data source, I decided to spend the efforts in cleaning and merging the data sources now to make things simpler during part 3.
 
