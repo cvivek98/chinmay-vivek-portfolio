@@ -25,18 +25,19 @@ Target audience is essentially policy makers in the US who are in power/position
 
 5. As a member of the target audience (policy makers) for this story, do you feel empowered or inspired to take action or advocate for change in addressing mental health inequities? What additional resources or calls to action would you find helpful in driving momentum for policy reform?
 
-Goal: Checking for key takaways <br>
+**Goal: Checking if the key takaways are what we hoped to achieve with the story** <br>
 question: What stood out after going through the whole story? Any specific emotions that sparked as you went through it?                                           
-Goal: Checking if the issues were properly conveyed to the viewer  
+**Goal: Checking if the issues were properly conveyed to the viewer**  <br>
 question: How effectively does the story highlight the unique mental health challenges faced by minority communities during the COVID-19 pandemic? Are there specific examples or narratives that resonated with you?
 
-Goal: Checking for flow of story and if it resonates with the theme    
+**Goal: Checking for flow of story and if it resonates with the theme**    <br>
 question: How did you perceive the flow of the story? Did it effectively convey the message and engage with you throughout?
 
-Goal: Checking if the data viz conveyed the right insights effectively      
+**Goal: Checking if the data viz conveyed the right insights effectively**<br>
 Question: Were there any data visualizations or infographics in the story that effectively communicated the magnitude of mental health disparities among minority groups?
 
-Goal: As a member of the target audience (policy makers) for this story, do you feel empowered or inspired to take action or advocate for change in addressing mental health inequities? What additional resources or calls to action would you find helpful in driving momentum for policy reform?
+**Goal: Checking if the story was persuasive enough to take action**<br>
+Question: As a member of the target audience (policy makers) for this story, do you feel empowered or inspired to take action or advocate for change in addressing mental health inequities? What additional resources or calls to action would you find helpful in driving momentum for policy reform?
 
 
 ## Interview findings
