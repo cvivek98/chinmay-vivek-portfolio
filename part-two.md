@@ -12,18 +12,11 @@ I started with refining my topic a bit and narrowing it down to just mental heal
 ## Target audience
 Target audience is essentially policy makers in the US who are in power/position to make policies around Health Equity and COVID relief.
 
+## Interview participants
+
+I picked three interview participants from completely different backgrounds to gather a varied feedback and check how the story is perceived among people with different backgrounds. I tried my best to pick people who are from technical as well as non-technical background to see if the data is easy to read for everyone. I also picked 1 person from a background in policy to see if they would feel like taking action after going through the whole story. 2/3 of my interviewees belonged to the racial minorities that most of the insights were about. Hence, I was interested to see their emotional arc while going through the story compared to others. I tried to meet them in person so I can also see some of their facial expressions as they go through the charts because it is very evident when someone is really shocked or confused. I gave all of them 0 information about my story before presenting them the shorthand to keep away any biases.
 
 ## Interview script
-
-1. What stood out after going through the whole story? Any specific emotions that sparked as you went through it?
-
-2. How effectively does the story highlight the unique mental health challenges faced by minority communities during the COVID-19 pandemic? Are there specific examples or narratives that resonated with you?
-
-3. How did you perceive the flow of the story? Did it effectively convey the message and engage with you throughout?
-
-4. Were there any data visualizations or infographics in the story that effectively communicated the magnitude of mental health disparities among minority groups? 
-
-5. As a member of the target audience (policy makers) for this story, do you feel empowered or inspired to take action or advocate for change in addressing mental health inequities? What additional resources or calls to action would you find helpful in driving momentum for policy reform?
 
 **Goal: Checking if the key takaways are what we hoped to achieve with the story** <br>
 question: What stood out after going through the whole story? Any specific emotions that sparked as you went through it?                                           
