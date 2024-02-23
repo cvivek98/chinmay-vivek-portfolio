@@ -45,21 +45,21 @@ Question: As a member of the target audience (policy makers) for this story, do 
 1. What stood out after going through the whole story? Any specific emotions that sparked as you went through it?
 <br>**Interviewee A**: Being a part of a minority group, I could connect to your story. I was sad to know that even in grave situations like the pandemic, there was rampant distress and discrimination.
 <br>**Interviewee B**: Perhaps with more pictures of facial expressions, I would have felt more emotional.
-<br>**Interviewee C**:
+<br>**Interviewee C**: I liked the fact that the conflict was nicely structure and how the story led me to it because I kept asking "Why??"
 
 2. How effectively does the story highlight the unique mental health challenges faced by minority communities during the COVID-19 pandemic? Are there specific examples or narratives that resonated with you?
 <br>**Interviewee A**: The sections are very specific, and highlight various aspects that sum up the mental health challenges faced by minority communities.
 <br>**Interviewee B**: I liked the graph with green colors that highlighted the important of engage with other people. Deployed by ethnicity. Perhaps, you cold join that view with a picture of two people from different races, talking. 
-<br>**Interviewee C**: 
+<br>**Interviewee C**: It was clear to me that I am a policy maker and these are all the issues in the society that need to be fixed. I liked how you bring up the health insurance / income charts because as soon as I saw that I could tell this is the climax of the story.
 
 3. How did you perceive the flow of the story? Did it effectively convey the message and engage with you throughout?
 <br>Interviewee A: The story was well structured, with a smooth flow. I would have loved the blue color for the bar graphs. Also, I had to wait till the end to know the reasons for the various challenges.
 <br>**Interviewee B**: Yes
-<br>**Interviewee C**:
+<br>**Interviewee C**: I really liked the narrative structure. But, the setup was longer than I would like it to be. I got the point of minority vs white numbers with the first couple of charts itself so I was waiting for the "why" for a long time.
 
 4. Were there any data visualizations or infographics in the story that effectively communicated the magnitude of mental health disparities among minority groups? 
 <br>**Interviewee A**: All your visualizations were clear and concise and contrasted the magnitude of people from different minority communities. I believe real images and graphs would attract more attention from policymakers.
-<br>**Interviewee B**: I really like the  the graph with green colors that highlighted the important of engage with other people... also the one with the death count.
+<br>**Interviewee B**: I really like the  the graph with green colors that highlighted the important of engage with other people... also the one with the death count. 
 
 In the graph "Psychological Distress" there is a rating with values from 6 to 9.6, but you don't clarify what does it mean?
 I also don't understand the Average Perceived Discrimination rates, from 10.5 to 17.7
@@ -71,12 +71,12 @@ The "Average Health Insurance %" donut graph is very even, what are you trying t
 
 with this changes the story can be better explained.
 
-<br>**Interviewee C**:
+<br>**Interviewee C**: I liked all the visualisation, they were all clear and clean. However, I would make their size smaller so that they fit in one screen. I had to scroll multiple times to see the whole chart. Also I would reduce the number of rows - I don't think you need to tease out every single race / ethnic group. 
 
 5. As a member of the target audience (policy makers) for this story, do you feel empowered or inspired to take action or advocate for change in addressing mental health inequities? What additional resources or calls to action would you find helpful in driving momentum for policy reform?
 **Interviewee A**: I definitely feel empowered to take action and advocate for change in addressing the issue. I believe it is not only the task of the government to take measures against the challenges. Every individual in the community has to address this issue and rise above hate and discrimination.
 **Interviewee B**: It is a good story, i woudnt change anything else
-<br>**Interviewee C**: 
+<br>**Interviewee C**: Yes, I was moved by the story and motivated to take action. I also liked the fact that the story was very unique because when people talk about COVID, they don't think about the mental health implications it could have caused. So it was interesting to see all the data points.
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
