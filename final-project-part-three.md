@@ -23,9 +23,9 @@ In addition to narrative enhancements, I refined the visualizations presented on
 By iteratively refining both the narrative and visual components of the website, I aimed to present a compelling and coherent story that not only identifies systemic disparities but also offers actionable pathways toward equitable change. 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+Before proceeding to part 3, my call to action primarily focused on advocating for mental health programs aimed at achieving health equity among policy makers, who constituted the target audience. However, following extensive discussions with my professor and conducting three additional interviews, I decided to refine this call to action significantly. The insights gained from these conversations prompted me to propose specific changes to certain coverage requirements within the Medicaid program, thereby making my call to action more actionable and providing it with a clearer direction.
 
-Text here!
+Throughout the process, my target audience remained policy makers, a fact that was consistently reaffirmed in both the initial and subsequent interviews. However, with the introduction of healthcare policies and the proposed Medicaid program modifications, my intention shifted towards targeting a specific subset of policy makers—namely, those in positions of influence and authority capable of effecting changes to the Medicaid program. This strategic adjustment allowed me to tailor my message more precisely, focusing on engaging individuals with the power to enact tangible policy reforms in support of mental health equity.
 
 
 ## References
