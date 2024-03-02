@@ -28,9 +28,16 @@ Throughout the process, my target audience remained policy makers, a fact that w
 
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+Makeover Monday. (2021, Week 28). COVID Vaccination Coverage by Age & Ethnicity. Retrieved from: https://data.world/makeovermonday/2021w28
 
-Text here!
+Makeover Monday. (2021, Week 29). COVID-19 Mortality Rate by Ethnicity. Retrieved from: https://data.world/makeovermonday/2021w29
+
+Associated Press. (n.d.). COVID Impact Survey - Public Data. Retrieved from: https://data.world/associatedpress/covid-impact-survey-public-data
+
+National Library of Medicine, NIH. (n.d.). Retrieved from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10209952/#:~:text=A%20comparison%20across%20the%20four,White%20respondents%20exhibiting%20the%20lowest
+
+Medicaid.gov. (n.d.). Mandatory & Optional Medicaid Benefits. Retrieved from: https://www.medicaid.gov/medicaid/benefits/mandatory-optional-medicaid-benefits/index.html
+
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
