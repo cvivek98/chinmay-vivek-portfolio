@@ -2,9 +2,7 @@
 
 # The final data story
 
-[Link to final published shorthand](https://preview.shorthand.com/Mx8Hm1rlytl6RuEL](https://carnegiemellon.shorthandstories.com/mental-health-inequity-among-minorities-in-the-us/index.html))
-
-
+https://carnegiemellon.shorthandstories.com/mental-health-inequity-among-minorities-in-the-us/index.html
 
 # Changes made since Part II
 Of course, here's a more detailed version of the text regarding the changes made between part 2 and part 3 of your visual website assignment:
