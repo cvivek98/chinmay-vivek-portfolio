@@ -2,7 +2,7 @@
 
 # The final data story
 
-[Link to final published shorthand](https://preview.shorthand.com/Mx8Hm1rlytl6RuEL](https://carnegiemellon.shorthandstories.com/mental-health-inequity-among-minorities-in-the-us/index.html#section-JBRngjnz6f))
+[Link to final published shorthand](https://preview.shorthand.com/Mx8Hm1rlytl6RuEL](https://carnegiemellon.shorthandstories.com/mental-health-inequity-among-minorities-in-the-us/index.html))
 
 
 
